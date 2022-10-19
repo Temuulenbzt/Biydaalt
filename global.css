@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    background-color: white;
+}
+
+
+ul,li{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+.container{
+    width: 1280px;
+    margin: 0 auto;
+}
+.body-1>body-1-desc{
+    line-height: 72px;
+    width: 576px;
+    height: 144px;
+    left: 326px;
+    font-weight: 600px;
+}
